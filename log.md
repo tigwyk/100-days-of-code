@@ -7,4 +7,4 @@
 **Thoughts**: React is really neat and I'm excited to continue learning it. I like the simplicity combined with the power to do complex things.
 
 **Link(s) to work**
-1. [Link to latest commit](https://github.com/tigwyk/deimos-react/commit/0880de83c7b15d1f3ea3ba75b7097ae74279a02f)
+1. [Latest commit](https://github.com/tigwyk/deimos-react/commit/0880de83c7b15d1f3ea3ba75b7097ae74279a02f)
