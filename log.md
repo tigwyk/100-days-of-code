@@ -18,3 +18,13 @@
 **Link(s) to work**
 1. [Latest commit to deimos-react](https://github.com/tigwyk/deimos-react/commit/c03c603c31d6e8097b51f48a8386bdf816ef239b)
 2. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits?author=tigwyk&since=2017-12-29T08:00:00Z&until=2017-12-30T08:00:00Z)
+
+### Day 3: Dec 30 2017, Saturday
+
+**Today's Progress**: I finally got the basic fetch API call working with cookies so that it properly has access to the character API endpoint and can show character name, attributes, etc. Took me the entire hour to get this working after trying various methods.
+
+**Thoughts**: I'm ecstatic that I've combined Flask-Login to handle authentication along with the API and the ReactJS front-end to manage the visual aspect of where all the API results end up on the page. This is FASCINATING!
+
+**Link(s) to work**
+1. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
+2. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
