@@ -12,3 +12,6 @@ I attempted to write a rudimentary fetch lookup of the API I exposed from Deimos
 
 ### R1D3
 Got the API lookup working correctly from ReactJS to my python Flask backend using cookies to manage authentication. https://github.com/tigwyk/deimos-react/commits/master , https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D4
+Poked around at the React Material Design Component library and tried making a LayoutGrid. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
