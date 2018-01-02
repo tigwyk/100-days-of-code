@@ -28,3 +28,13 @@
 **Link(s) to work**
 1. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
 2. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+
+### Day 4: Jan 1 2018, Monday
+
+**Today's Progress**: I poked around at the React Material Components for Web library and added a LayoutGrid to see how the data looks. It's... not laid out properly but we're getting somewhere!
+
+**Thoughts**: This library was difficult to use since I wasn't aware of all the pieces I needed to install beforehand.
+
+**Link(s) to work**
+1. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
+2. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
