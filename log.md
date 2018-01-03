@@ -38,3 +38,12 @@
 **Link(s) to work**
 1. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
 2. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+
+### Day 5: Jan 2 2018, Tuesday
+
+**Today's Progress**: Tried to fix a bug with ReactJS not authenticating properly with Flask from other computers. Two separate computers, two failed attempts at authenticating. I can login, but the API calls don't seem to use the proper credentials so they return a weird error.
+
+**Thoughts**: I don't even know what's going on with this bug. I keep adding checks and it keeps bypassing them. Tomorrow's another day.
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
