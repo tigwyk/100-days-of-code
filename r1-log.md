@@ -15,3 +15,6 @@ Got the API lookup working correctly from ReactJS to my python Flask backend usi
 
 ### R1D4
 Poked around at the React Material Design Component library and tried making a LayoutGrid. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D5
+Tried to fix a bug with authentication from other computers from ReactJS to the Flask API. Not sure why it doesn't seem to work on other computers. https://github.com/tigwyk/spacerpg/commits/master
