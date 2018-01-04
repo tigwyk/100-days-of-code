@@ -47,3 +47,13 @@
 
 **Link(s) to work**
 1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+
+### Day 6: Jan 3 2018, Wednesday
+
+**Today's Progress**: I think I fixed the pesky ReactJS/Flask API authentication bug and now I'm trying to clean up the CSS so that it looks prettier. 
+
+**Thoughts**: Not sure what I did to fix the bug really aside from making the API call local instead of specifying the whole URL, maybe that was all it took. CSS is proving to be a little frustrating though.
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
