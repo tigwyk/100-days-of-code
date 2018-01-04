@@ -18,3 +18,6 @@ Poked around at the React Material Design Component library and tried making a L
 
 ### R1D5
 Tried to fix a bug with authentication from other computers from ReactJS to the Flask API. Not sure why it doesn't seem to work on other computers. https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D6
+I think I fixed the pesky authentication bug and I moved on to fixing up some CSS to make things look prettier. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
