@@ -57,3 +57,13 @@
 **Link(s) to work**
 1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
 2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
+
+### Day 7: Jan 4 2018, Thursday
+
+**Today's Progress**: I copied the material components CSS and JS files to their respective directories in the static/ directory of the Flask project in order to apply the right CSS stylings to the layout grid I'm using. I also threw in a new cell for showing the players credits. 
+
+**Thoughts**: CSS still frustrates the heck out of me, heh.
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
