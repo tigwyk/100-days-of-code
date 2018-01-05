@@ -21,3 +21,6 @@ Tried to fix a bug with authentication from other computers from ReactJS to the 
 
 ### R1D6
 I think I fixed the pesky authentication bug and I moved on to fixing up some CSS to make things look prettier. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D7
+I added another layoutgrid cell to show the players credits and copied the proper material components CSS file and JS file to their respect static folders in the Flask project. I was wondering why certain styles weren't applying previously and adding these files appeared to make things a little more consistent. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
