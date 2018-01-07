@@ -67,3 +67,13 @@
 **Link(s) to work**
 1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
 2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
+
+### Day 8: Jan 7 2018, Sunday
+
+**Today's Progress**: I had to take a few days break in order to deal with some real life stuff but once I got back into the code I found that the react components I was using for Material Design for Web were outdated and didn't contain one of the wrappers necessary to align layout grid cells properly. This was the bug with my grid cells the whole time and explains why they failed to align inline.
+
+**Thoughts**: I'm annoyed that the component library I've integrated is out of date and therefore I'll have to find a replacement or use raw Material Design for Web stylings.
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
