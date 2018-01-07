@@ -24,3 +24,6 @@ I think I fixed the pesky authentication bug and I moved on to fixing up some CS
 
 ### R1D7
 I added another layoutgrid cell to show the players credits and copied the proper material components CSS file and JS file to their respect static folders in the Flask project. I was wondering why certain styles weren't applying previously and adding these files appeared to make things a little more consistent. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D8
+I discovered that the react component set I was using for Material Design for Web was outdated and didn't include the latest inner wrapper around layoutgrid cells thereby not rendering them properly. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
