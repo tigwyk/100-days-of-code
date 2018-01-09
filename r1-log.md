@@ -27,3 +27,6 @@ I added another layoutgrid cell to show the players credits and copied the prope
 
 ### R1D8
 I discovered that the react component set I was using for Material Design for Web was outdated and didn't include the latest inner wrapper around layoutgrid cells thereby not rendering them properly. https://github.com/tigwyk/deimos-react/commits/master https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D9
+I removed the React library for Material Components for Web and replaced it with just the raw CSS. It seems to be working just fine and I got a basic toolbar and layout grid configured. https://github.com/tigwyk/spacerpg/commits/master
