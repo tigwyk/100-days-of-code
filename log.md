@@ -77,3 +77,12 @@
 **Link(s) to work**
 1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
 2. [Latest commits to deimos-react](https://github.com/tigwyk/deimos-react/commits/master)
+
+### Day 9: Jan 8 2018, Monday
+
+**Today's Progress**: I removed the React Material Components for Web library and implemented the raw CSS for Material Components for Web instead. Got my basic toolbar working and added a placeholder image in the grid below.
+
+**Thoughts**: Originally I was working with Material Design Lite and this feels very similar now that I'm back to just using CSS for styling instead of React components.
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
