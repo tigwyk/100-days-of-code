@@ -86,3 +86,12 @@
 
 **Link(s) to work**
 1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
+
+### Day 10: Jan 9 2018, Tuesday
+
+**Today's Progress**: I made all images responsive via CSS (width/height auto, etc) and added a placeholder image in the first row of the new layout grid under the toolbar. It looks great on desktop and two different phones!
+
+**Thoughts**: I didn't realize responsive images were so easy via CSS, I really thought I'd have to worry about breakpoints and such. Nope! None of that!
+
+**Link(s) to work**
+1. [Latest commits to Deimos 2147](https://github.com/tigwyk/spacerpg/commits/master)
