@@ -30,3 +30,6 @@ I discovered that the react component set I was using for Material Design for We
 
 ### R1D9
 I removed the React library for Material Components for Web and replaced it with just the raw CSS. It seems to be working just fine and I got a basic toolbar and layout grid configured. https://github.com/tigwyk/spacerpg/commits/master
+
+### R1D10
+Made all images responsive via CSS and added a placeholder image in the first row of the new layout grid. https://github.com/tigwyk/spacerpg/commits/master
